@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a Frontend Developer from India 🇮🇳 and a contributor at GSSoC '24. I ❤️ solving data structure problems and have a passion for competitive programming 🏆.<br><br>
+👨‍💻 I'm a Full stack  Developer from India 🇮🇳 . I ❤️ solving data structure problems and have a passion for competitive programming 🏆.<br><br>
 
 
 ## 🌐 Socials:
