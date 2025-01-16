@@ -15,6 +15,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=josum06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 📈 *Activity Graph*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josum06&theme=react-dark&bg_color=20232A&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
